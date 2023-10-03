@@ -39,11 +39,12 @@
             // 
             // dtpZaman
             // 
+            dtpZaman.Font = new Font("Verdana", 20F, FontStyle.Regular, GraphicsUnit.Point);
             dtpZaman.Format = DateTimePickerFormat.Time;
             dtpZaman.Location = new Point(49, 47);
             dtpZaman.Margin = new Padding(6);
             dtpZaman.Name = "dtpZaman";
-            dtpZaman.Size = new Size(197, 39);
+            dtpZaman.Size = new Size(197, 40);
             dtpZaman.TabIndex = 0;
             // 
             // btnKur

@@ -7,7 +7,6 @@ namespace AlarmUygulamasi
         bool alarmKuruluMu = false;
         DateTime kuruluZaman;
 
-        // Form1 ilk oluþurken çalýþan metot (1 defa çalýþýr baþta)
         public Form1()
         {
             InitializeComponent();
